@@ -1,3 +1,6 @@
 # Insurance
 # Random-Forest-Algorithm
-Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging. The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees. Random Forest has multiple decision trees as base learning models. We randomly perform row sampling and feature sampling from the dataset forming sample datasets for every model. This part is called Bootstrap.
+EDA stands for Exploratory Data Analysis. It is an approach to analyze and summarize the main characteristics of a dataset. EDA involves various techniques and tools to explore and understand the patterns, relationships, and trends in the data.
+
+The main goal of EDA is to uncover important insights and findings that can inform further analysis or decision-making processes. Some of the common techniques used in EDA include data visualization, summary statistics, hypothesis testing, and machine learning algorithms.
+EDA is a critical step in the data analysis process, as it helps to identify any data quality issues, outliers, or missing values that may impact the validity of subsequent analyses. By exploring the data in a systematic and comprehensive way, EDA can also help to generate new research questions and hypotheses for further investigation.
